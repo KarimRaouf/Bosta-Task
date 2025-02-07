@@ -43,7 +43,7 @@ In this simple task, we are evaluating your **coding style** and **design patter
 ```
 
 ## Screenshot
-![Screenshot_20230708_171046](https://github.com/user-attachments/assets/9369359c-c8df-4c3a-ac91-105558c59298)
+![Screenshot_20250207_092319](https://github.com/user-attachments/assets/88bdfd6f-7eb6-4dfa-b736-0731cbf74e3e)
 
 
 
