@@ -42,6 +42,15 @@ In this simple task, we are evaluating your **coding style** and **design patter
 │   ├── screens (UI & ViewModels)
 ```
 
+## Screenshot
+![Screenshot_20230708_171046](https://github.com/user-attachments/assets/9369359c-c8df-4c3a-ac91-105558c59298)
+
+
+
+## Videorecording
+https://github.com/user-attachments/assets/6e11cbe4-2a94-4cba-a7c1-94db38d4279c
+
+
 ## Getting Started
 
 1. Clone the repository:
