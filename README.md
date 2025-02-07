@@ -18,7 +18,7 @@ In this simple task, we are evaluating your **coding style** and **design patter
 - **Base URL:** `https://stg-app.bosta.co/api/v2`
 - **Cities and Districts:**
   ```
-  GET /cities/getAllDistricts?countryId=60e4482c7cb7d4bc4849c4d5
+  GET /cities/getAllDistricts?countryId= id
   ```
 - Make sure to **check the API response using Postman** before integrating.
 
